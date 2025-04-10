@@ -1,11 +1,26 @@
 # iRescue: Disaster Management Mobile Application
 
 ## 🌍 Project Overview
-
 iRescue is a comprehensive disaster management mobile application developed during a hackathon, designed to provide critical support during emergency situations. The app focuses on resource management, emergency alerts, and SOS functionality to help communities respond effectively to disasters.
 
-## 🚀 Key Features
+## 📸 Screenshots
+<div align="center">
+  <img src="Screenshot 2025-04-09 194543.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194547.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194551.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194602.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194618.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194628.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194633.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194637.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194656.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194701.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194706.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194710.png" alt="iRescue App Screenshot" width="220"/>
+  <img src="Screenshot 2025-04-09 194715.png" alt="iRescue App Screenshot" width="220"/>
+</div>
 
+## 🚀 Key Features
 ### 1. Emergency Alert System
 - Real-time alerts for various disaster types (Earthquake, Flood, Fire, etc.)
 - Severity-based notification system
@@ -33,7 +48,6 @@ iRescue is a comprehensive disaster management mobile application developed duri
   - Coordinate resource allocation
 
 ## 🛠 Technical Architecture
-
 ### State Management
 - Implemented using Flutter BLoC (Business Logic Component)
 - Separation of concerns with event-driven architecture
@@ -53,24 +67,20 @@ The app uses mock services for hackathon demonstration, simulating:
 - Connectivity states
 
 ## 🔧 Demo Controls
-
 Special demo controls allow quick simulation of:
 - Connectivity states (Online/Offline)
 - Location changes
 - Service resets
 
 ## 🖥 Screens
-
 1. Authentication
    - Login
    - Registration
-
 2. Civilian Dashboard
    - Active Alerts
    - SOS Button
    - Emergency Resources
    - Profile Management
-
 3. Admin Dashboard
    - Warehouse Management
    - Resource Allocation
@@ -84,7 +94,6 @@ Special demo controls allow quick simulation of:
 - Emergency-focused color schemes
 
 ## 🚦 Demo Credentials
-
 ### Admin Access
 - Email: admin@test.com
 - Password: password
@@ -97,8 +106,6 @@ Special demo controls allow quick simulation of:
 - Offline queue management
 - Sync operations when connectivity restored
 - Graceful error handling
-
-
 
 ## 🔮 Potential Future Enhancements
 - Integration with real geolocation services
@@ -115,7 +122,5 @@ Special demo controls allow quick simulation of:
 - Connectivity Plus
 - Geolocator
 
-
-
 ## 👥 Contributor
-Developed by Gautam kumar 
+Developed by Gautam kumar
